@@ -1,13 +1,26 @@
 {
-  "name": "--verbose",
-  "version": "0.1.0",
-  "private": true,
+  "name": "aukle24",
+  "version": "1.0.0",
+  "description": "A web and mobile platform connecting parents with trusted babysitters. The app provides a seamless way to find, book, and manage babysitting services, offering features like sitter profiles, real-time availability, booking management, and secure communication. Designed to ensure convenience and safety for families and caregivers.",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunny-github-acc/aukle24.git"
+  },
+  "keywords": [
+    "babysitting"
+  ],
+  "author": "sunny-github-acc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunny-github-acc/aukle24/issues"
+  },
+  "homepage": "https://www.aukle24.lt",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
